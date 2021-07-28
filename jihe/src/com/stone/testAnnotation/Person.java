@@ -1,4 +1,4 @@
-package com.stone.test3;
+package com.stone.testAnnotation;
 
 /**
  * 表示将标签MyAnnotation贴在Person类的代码中

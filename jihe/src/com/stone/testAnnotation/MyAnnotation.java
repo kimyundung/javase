@@ -1,4 +1,4 @@
-package com.stone.test3;
+package com.stone.testAnnotation;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
